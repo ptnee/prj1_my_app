@@ -1,0 +1,129 @@
+[
+
+
+  {
+    "name": "Trà Sữa Tocotoco - Chùa Láng",
+    "img": "https://images.foody.vn/res/g96/958416/prof/s280x175/foody-upload-api-foody-mobile-foody-upload-api-foo-190919105421.jpg",
+    "adr": "97 Chùa Láng, P. Láng Thượng, Đống Đa, Hà Nội"
+  },
+  {
+    "name": "Trà Sữa Gong Cha - 貢茶 - Hoàng Đạo Thúy",
+    "img": "https://images.foody.vn/res/g69/688223/prof/s280x175/beauty-upload-api-image-200805140404.jpeg",
+    "adr": "Tầng 1, 34T Hoàng Đạo Thúy, P. Trung Hòa, Cầu Giấy, Hà Nội"
+  },
+  {
+    "name": "Trà Sữa Tocotoco - Thượng Đình",
+    "img": "https://images.foody.vn/res/g71/702021/prof/s280x175/foody-mobile-23376408_54246046275.jpg",
+    "adr": "266 Thượng Đình, P. Thượng Đình, Thanh Xuân, Hà Nội"
+  },
+  {
+    "name": "Trà Sữa Tocotoco - Xuân La",
+    "img": "https://images.foody.vn/res/g73/725160/prof/s280x175/foody-upload-api-foody-mobile-2-jpg-180322143630.jpg",
+    "adr": "47 Xuân La, P. Xuân La, Tây Hồ, Hà Nội"
+  },
+  {
+    "name": "Trà Sữa Tocotoco - Nguyễn Xiển",
+    "img": "https://images.foody.vn/res/g28/277192/prof/s280x175/foody-mobile-6565646546-jpg-625-636127261456167663.jpg",
+    "adr": "8 Nguyễn Xiển, P. Thanh Xuân Nam, Thanh Xuân, Hà Nội"
+  },
+  {
+    "name": "The 1989 - Trà Sữa Muối Biển - Hồng Mai",
+    "img": "https://images.foody.vn/res/g65/646317/prof/s280x175/foody-upload-api-foody-mobile-traf-jpg-181023155349.jpg",
+    "adr": "79 Hồng Mai, P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội"
+  },
+  {
+    "name": "Trà sữa Tocotoco - Lê Trọng Tấn",
+    "img": "https://images.foody.vn/res/g95/942825/prof/s280x175/foody-upload-api-foody-mobile-avar2-190725141716.jpg",
+    "adr": "156 Lê Trọng Tấn, P. La Khê, Hà Đông, Hà Nội"
+  },
+  {
+    "name": "Trà Sữa Tocotoco - 686 Quang Trung",
+    "img": "https://images.foody.vn/res/g66/652808/prof/s280x175/foody-upload-api-foody-mobile-an-0eeef555-211224174730.jpeg",
+    "adr": "686 Quang Trung, P. La Khê, Hà Đông, Hà Nội"
+  },
+  {
+    "name": "Phê La - Thành Thái",
+    "img": "https://images.foody.vn/res/g114/1137547/prof/s280x175/image-9b333408-221229161156.jpeg",
+    "adr": "N04-B1 Dich Vong, P. Thành Thái, P. Dịch Vọng, Cầu Giấy, Hà Nội"
+  },
+  {
+    "name": "Trà Sữa LeeTee - Láng Hạ",
+    "img": "https://images.foody.vn/res/g70/696405/prof/s280x175/foody-upload-api-foody-mobile-lee-tee-190108114051.jpg",
+    "adr": "1B Ngõ 87 Láng Hạ, P. Thành Công, Ba Đình, Hà Nội"
+  },
+  {
+    "name": "Trà Sữa Gong Cha - 貢茶 - Giảng Võ",
+    "img": "https://images.foody.vn/res/g30/291783/prof/s280x175/beauty-upload-api-image-200805140403.jpeg",
+    "adr": "Tầng 1, D2 Giảng Võ, P. Giảng Võ, Ba Đình, Hà Nội"
+  },
+  {
+    "name": "The 1989 - Trà Sữa Muối Biển - Tân Mai",
+    "img": "https://images.foody.vn/res/g89/888197/prof/s280x175/foody-upload-api-foody-mobile-2-190218164006.jpg",
+    "adr": "184 Tân Mai, P. Tân Mai, Hoàng Mai, Hà Nội"
+  },
+  {
+    "name": "KOI Thé - Vincom Phạm Ngọc Thạch",
+    "img": "https://images.foody.vn/res/g100/993044/prof/s280x175/image-9ba129ab-221031114422.jpg",
+    "adr": "L1-16 Vincom Phạm Ngọc Thạch, 2 Phạm Ngọc Thạch, P. Trung Tự, Đống Đa, Hà Nội"
+  },
+  {
+    "name": "Trà Sữa Tocotoco - 30 Trần Phú",
+    "img": "https://images.foody.vn/res/g94/931858/prof/s280x175/foody-upload-api-foody-mobile-ava12-190620154040.jpg",
+    "adr": "30 Trần Phú, P. Mộ Lao, Hà Đông, Hà Nội"
+  },
+  {
+    "name": "Trà Sữa Tocotoco - Phố Nhổn",
+    "img": "https://images.foody.vn/res/g66/652809/prof/s280x175/foody-mobile-2-jpg-711-636281932110336615.jpg",
+    "adr": "20 Phố Nhổn, P. Xuân Phương, Nam Từ Liêm, Hà Nội"
+  },
+  {
+    "name": "Tocotoco - Lĩnh Nam",
+    "img": "https://images.foody.vn/res/g97/960486/prof/s280x175/foody-upload-api-foody-mobile-avar-190924114711.jpg",
+    "adr": "40 Lĩnh Nam, P. Mai Động, Hoàng Mai, Hà Nội"
+  },
+  {
+    "name": "Phê La - Lê Văn Thiêm",
+    "img": "https://images.foody.vn/res/g116/1151432/prof/s280x175/image-6de87bc1-221229161155.jpeg",
+    "adr": "35 Phố Lê Văn Thiêm, P. Nhân Chính, Thanh Xuân, Hà Nội"
+  },
+  {
+    "name": "GA Rau Má & Súp Cua Trứng Bắc Thảo",
+    "img": "https://images.foody.vn/res/g93/925953/prof/s280x175/file_restaurant_photo_nmzq_16343-ac77edc4-211016221620.jpg",
+    "adr": "8 Ngõ 91 Chùa Láng, P. Láng Thượng, Đống Đa, Hà Nội"
+  },
+  {
+    "name": "YiHeTang - Đệ Nhất Trà Sữa Nướng - Trần Phú",
+    "img": "https://images.foody.vn/res/g99/986863/prof/s280x175/foody-upload-api-foody-mobile-foody-upload-api-foo-191204154528.jpg",
+    "adr": "64 Trần Phú, P. Mộ Lao, Hà Đông, Hà Nội"
+  },
+  {
+    "name": "Highlands Coffee - Sunsquare",
+    "img": "https://images.foody.vn/res/g26/252516/prof/s280x175/image-750cca31-221123101305.jpeg",
+    "adr": "Tòa Nhà Sun Square, 21 Lê Đức Thọ, P. Mỹ Đình, Nam Từ Liêm, Hà Nội"
+  },
+  {
+    "name": "Highlands Coffee - 48 Trần Nhân Tông",
+    "img": "https://images.foody.vn/res/g86/855345/prof/s280x175/image-fcef5115-221123101355.jpeg",
+    "adr": "48 Trần Nhân Tông, P. Nguyễn Du, Hai Bà Trưng, Hà Nội"
+  },
+  {
+    "name": "Trà Sữa Tocotoco - Ngô Gia Tự",
+    "img": "https://images.foody.vn/res/g68/673117/prof/s280x175/foody-mobile-471-jpg-743-636353022498502685.jpg",
+    "adr": "176 Ngô Gia Tự, P. Đức Giang, Long Biên, Hà Nội"
+  },
+  {
+    "name": "Trà Sữa Tocotoco - 271 Nguyễn Khang",
+    "img": "https://images.foody.vn/res/g96/950326/prof/s280x175/foody-upload-api-foody-mobile-foody-upload-api-foo-191113101008.jpg",
+    "adr": "271 Nguyễn Khang, P. Yên Hòa, Cầu Giấy, Hà Nội"
+  },
+  {
+    "name": "Trà Sữa Feeling Tea - Thanh Niên",
+    "img": "https://images.foody.vn/res/g1/9909/prof/s280x175/foody-upload-api-foody-mobile-551181e6898573db2a94-200422101921.jpg",
+    "adr": "11 Thanh Niên, P. Thụy Khuê, Tây Hồ, Hà Nội"
+  },
+  {
+    "name": "Trà Sữa LeeTee - Xã Đàn 2",
+    "img": "https://images.foody.vn/res/g68/678209/prof/s280x175/foody-upload-api-foody-mobile-lee-tee-190108114007.jpg",
+    "adr": "63 Ngõ Xã Đàn 2, P. Nam Đồng, Đống Đa, Hà Nội"
+  }
+]
